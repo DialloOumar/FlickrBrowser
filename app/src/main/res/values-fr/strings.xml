@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Navigateur Flickere</string>
+    <string name="action_settings">Parametre</string>
+    <string name="title_activity_search">Activite de Recherche</string>
+    <string name="title_activity_photo_detail">Detail de photo</string>
+    <string name="descriptor_photo">Photo de Flicker telecharger</string>
+    <string name="photo_title">Title: %s</string>
+</resources>

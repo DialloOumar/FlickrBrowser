@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Flickr Browser</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_search">Search Activity</string>
+    <string name="title_activity_photo_detail">Photo Detail</string>
+    <string name="descriptor_photo">Downloaded Flicker Photo</string>
+    <string name="photo_title">Title: %s</string>
+    <string name="action_search">search</string>
+    <string name="searchable_hint">Enter your tag name</string>
+    <string name="empty_photo">No photo matches your query \n press the search icon for a new search</string>
+
+</resources>
